@@ -1,6 +1,4 @@
-# Shorts Factory
-
-Shorts Factory is an automated video editing pipeline for turning long gaming livestreams, gameplay recordings, podcasts, interviews, and webinars into polished highlight videos.
+this repo is an automated video editing pipeline for turning long gaming livestreams, gameplay recordings, podcasts, interviews, and webinars into polished highlight videos.
 
 The project is **landscape-first** and outputs `1920×1080` videos by default, making it suitable for:
 
