@@ -1,0 +1,18 @@
+input: media/source.mp4
+output_dir: out
+model: base
+language: null
+clip_count: 3
+min_clip_seconds: 12
+max_clip_seconds: 55
+padding_seconds: 1.5
+aspect_ratio: "16:9"
+ai_model: gpt-4o-mini
+brand:
+  name: "Your Brand"
+  accent: "#7C3AED"
+  text_color: "#FFFFFF"
+  font_family: "Arial"
+  logo_path: null
+  watermark: true
+music_path: null
